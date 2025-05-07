@@ -1,0 +1,5 @@
+resource_group_name      = "demo-vm-rg"
+vm_name                  = "demo-vm"
+admin_username           = "adminuser"
+key_vault_name           = "demo-keyvault"
+key_vault_secret_name    = "vm-password"
